@@ -1,0 +1,10 @@
+FileWriter(File file)
+Constructs a FileWriter object given a File object.
+FileWriter(File file, boolean append)
+Constructs a FileWriter object given a File object.
+FileWriter(FileDescriptor fd)
+Constructs a FileWriter object associated with a file descriptor.
+FileWriter(String fileName)
+Constructs a FileWriter object given a file name.
+FileWriter(String fileName, boolean append)
+Constructs a FileWriter object given a file name with a boolean indicating whether or not to append the data written.

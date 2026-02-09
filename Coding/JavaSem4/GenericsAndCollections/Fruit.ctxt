@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Fruit
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fruit\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ size
+comment1.target=Fruit(java.lang.String,\ int)
+comment2.params=o
+comment2.target=boolean\ equals(java.lang.Object)
+comment3.params=
+comment3.target=int\ hashCode()
+comment4.params=that
+comment4.target=int\ compareTo(Fruit)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

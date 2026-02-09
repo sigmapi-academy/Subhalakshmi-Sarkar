@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shapes
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Shapes\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=radius
+comment1.target=double\ area(double)
+comment1.text=\r\n\ returns\ the\ area\ of\ circle\ in\ double.\r\n\ @param\ radius\ of\ a\ circle\r\n
+comment2.params=length\ breadth
+comment2.target=double\ area(double,\ double)
+comment2.text=\r\n\ returns\ the\ area\ of\ rectangle\ in\ double\r\n\ @param\ length\ length\ of\ the\ rectangle\r\n\ @param\ breadth\ breadth\ of\ the\ rectangle\r\n
+comment3.params=len\ breadth
+comment3.target=int\ area(int,\ int)
+comment3.text=\r\n\ Overloaded\ area\ method\ which\ returns\ area\ in\ int\ form.\r\n\ @param\ length\ length\ of\ the\ rectangle\r\n\ @param\ breadth\ breadth\ of\ the\ rectangle\r\n
+numComments=4

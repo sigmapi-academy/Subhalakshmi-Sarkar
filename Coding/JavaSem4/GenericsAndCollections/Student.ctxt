@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Student\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=rollNum\ name\ email
+comment1.target=Student(int,\ java.lang.String,\ java.lang.String)
+comment2.params=o
+comment2.target=int\ compareTo(Student)
+comment3.params=
+comment3.target=int\ getRollNum()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getEmail()
+comment6.params=rollNum
+comment6.target=void\ setRollNum(int)
+comment7.params=name
+comment7.target=void\ setName(java.lang.String)
+comment8.params=email
+comment8.target=void\ setEmail(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

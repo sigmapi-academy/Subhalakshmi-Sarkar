@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=AnotherMax
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AnotherMax\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=coll\ comp
+comment1.target=java.lang.Comparable\ max(java.util.Collection,\ java.util.Comparator)
+comment2.params=
+comment2.target=java.util.Comparator\ naturalOrder()
+comment3.params=o1\ o2
+comment3.target=int\ compare(java.lang.Comparable,\ java.lang.Comparable)
+comment4.params=coll
+comment4.target=java.lang.Comparable\ max(java.util.Collection)
+comment5.params=keyExtractor
+comment5.target=java.util.Comparator\ comparing(java.util.function.Function)
+numComments=6

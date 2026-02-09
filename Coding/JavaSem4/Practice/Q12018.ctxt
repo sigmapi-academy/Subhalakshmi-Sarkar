@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Q12018
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Q1\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n
+comment1.target=Q12018(int)
+comment2.params=n
+comment2.target=boolean\ check_prime(int)
+comment3.params=
+comment3.target=void\ get_pair()
+numComments=4

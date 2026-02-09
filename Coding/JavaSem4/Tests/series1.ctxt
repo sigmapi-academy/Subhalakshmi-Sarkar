@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=series1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Q\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=i\ n
+comment1.target=void\ displaySum(int,\ int)
+comment2.params=i\ n
+comment2.target=void\ displayProduct(int,\ int)
+comment3.params=sum\ i\ n
+comment3.target=int\ sums(int,\ int,\ int)
+comment4.params=p\ i\ n
+comment4.target=int\ product(int,\ int,\ int)
+comment5.params=sum\ i\ n
+comment5.target=double\ final_ans(double,\ int,\ int)
+comment6.params=i\ n
+comment6.target=void\ final_display(int,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

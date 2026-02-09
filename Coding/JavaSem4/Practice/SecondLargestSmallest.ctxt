@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SecondLargestSmallest
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SecondLargestElement\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a
+comment1.target=SecondLargestSmallest\ secondLargeAndSmall(int[])
+comment2.params=A
+comment2.target=void\ feedRandom(int[])
+numComments=3

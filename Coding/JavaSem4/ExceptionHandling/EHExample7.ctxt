@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EHExample7
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EHExample7\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ y
+comment2.target=void\ method1(int,\ int)
+comment3.params=x\ y
+comment3.target=void\ method2(int,\ int)
+comment4.params=x\ y
+comment4.target=void\ method3(int,\ int)
+numComments=5
