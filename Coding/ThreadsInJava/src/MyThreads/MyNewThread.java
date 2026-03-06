@@ -4,8 +4,6 @@ public class MyNewThread extends Thread{
 
     public void run(){
         System.out.println("Thread is running...");
-
-        
         try {
             System.out.println("Thread goes to Timed Waiting(sleep)...");
             Thread.sleep(2000);
