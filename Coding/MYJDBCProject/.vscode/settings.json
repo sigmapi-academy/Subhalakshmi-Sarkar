@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Students\\Students\\SubhalakshmiUEM\\SubhalakshmiGitHub\\Coding\\mysql-connector-j-9.7.0\\mysql-connector-j-9.7.0\\mysql-connector-j-9.7.0.jar",
+        "d:\\Students\\Students\\SubhalakshmiUEM\\SubhalakshmiGitHub\\Coding\\ojdbc17.jar"
+    ]
+}
