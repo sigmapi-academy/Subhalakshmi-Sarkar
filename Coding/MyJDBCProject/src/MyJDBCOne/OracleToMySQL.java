@@ -3,6 +3,7 @@ package MyJDBCOne;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
@@ -48,6 +49,9 @@ public class OracleToMySQL {
             System.out.println("Total rows copied from Oracle to MySQL and number of records: "+ count);
             con1.close();
             con2.close();
+        }
+        catch(SQLException e){
+            e.printStackTrace();
         }
         catch(Exception e){
 
