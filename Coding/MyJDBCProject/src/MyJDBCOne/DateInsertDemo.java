@@ -10,9 +10,13 @@ public class DateInsertDemo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Connection con = ConnectionObject.getConnection();
+        if (con == null) {
+            System.err.println("Could not connect to Oracle. Check that the Oracle JDBC driver, database service, and credentials are available.");
+            sc.close();
+            return;
+        }
         String sql = "INSERT INTO ATTENDANCE VALUES(?,?)";
-        try {
-            PreparedStatement pst = con.prepareStatement(sql);
+        try (con; PreparedStatement pst = con.prepareStatement(sql)) {
             System.out.println("Enter employee id: ");
             String empid = sc.next();
             long l = new java.util.Date().getTime();
